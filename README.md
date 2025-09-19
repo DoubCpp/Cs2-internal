@@ -3,9 +3,9 @@
 Basic Esp and Aimbot internal CS2 cheat with ImGui interface.
 
 ## Features
-- **Aimbot** - Configurable aim assistance
-- **Triggerbot** - Automatic firing
-- **ESP** - Player/box/health/distance visuals
+- **Aimbot**
+- **Triggerbot** 
+- **ESP** 
 
 ## Build
 ```bash
